@@ -1,0 +1,8 @@
+pandasai
+pandas
+numpy
+streamlit
+lida 
+openai
+langchain
+langchain_experimental
